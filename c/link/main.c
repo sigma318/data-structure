@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "list.h"
+#include "slist.h"
 #include "dlist.h"
 
 void test_p(int **pint)
