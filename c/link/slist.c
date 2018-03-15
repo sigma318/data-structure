@@ -3,7 +3,7 @@
 **/
 #include <stdio.h>
 #include <stdlib.h>
-#include "list.h"
+#include "slist.h"
 
 /*
 ** insert a new value to a list by ascending order
