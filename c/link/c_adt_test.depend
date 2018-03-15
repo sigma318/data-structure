@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1507121448 source:f:\work\c_cpp\algorithm\c_adt_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"dlist.h"
+
+1507084351 f:\work\c_cpp\algorithm\c_adt_test\list.h
+
+1507101395 source:f:\work\c_cpp\algorithm\c_adt_test\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1507108516 source:f:\work\c_cpp\algorithm\c_adt_test\dlist.c
+	<stdio.h>
+	<stdlib.h>
+	"dlist.h"
+
+1507107585 f:\work\c_cpp\algorithm\c_adt_test\dlist.h
+
